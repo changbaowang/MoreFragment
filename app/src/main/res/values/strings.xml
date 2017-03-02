@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MoreFragment</string>
+    <string name="tv_fragment_value">这是Fragment1!</string>
+    <string name="tv_fragment2_value">这是Fragment2!</string>
+    <string name="btn_add_fragment1">add fragment1</string>
+    <string name="btn_add_fragment2">add fragment2</string>
+    <string name="btn_remove_fragment1">remove fragment1</string>
+    <string name="btn_replace_fragment2">replace fragment2</string>
+</resources>
